@@ -50,12 +50,6 @@ distance = √[(x2 - x1)² + (y2 - y1)² + (z2 - z1)²]
 
 ---
 
-## 📷 Demo
-![WhatsApp Image 2026-04-13 at 12 14 57 AM](https://github.com/user-attachments/assets/7d73d0b5-4111-4012-80cd-0b5401b1516f)
-![WhatsApp Image 2026-04-13 at 12 15 02 AM](https://github.com/user-attachments/assets/2d6fb965-c6ea-460a-9f8e-2d8d39c54179)
-
----
-
 ## ⚙️ Installation
 
 1. Clone the repository:
