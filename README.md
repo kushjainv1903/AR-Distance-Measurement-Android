@@ -9,11 +9,11 @@ An Augmented Reality (AR) based Android application that allows users to measure
 
 ## 🚀 Features
 
- 📐 Measure distance between two real-world points
- 🎯 Real-time crosshair targeting system
- 📱 Uses ARCore for environment tracking
- 🔄 Reset and re-measure functionality
- ⚡ Live distance calculation in centimeters
+ * 📐 Measure distance between two real-world points
+ * 🎯 Real-time crosshair targeting system
+ * 📱 Uses ARCore for environment tracking
+ * 🔄 Reset and re-measure functionality
+ * ⚡ Live distance calculation in centimeters
 
 ---
 
