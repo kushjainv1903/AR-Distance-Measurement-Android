@@ -3,8 +3,9 @@
 An Augmented Reality (AR) based Android application that allows users to measure real-world distances using their smartphone camera.
 
 ---
+ 🚀 Real-time distance measurement using ARCore with 3D spatial tracking
 
-🚀 Built using ARCore + Sceneform for real-time spatial measurement
+ 🚀 Built using ARCore + Sceneform for real-time spatial measurement
 
 ## 🚀 Features
 
@@ -24,6 +25,19 @@ The app uses **ARCore** to detect planes and track device motion.
 2. First point is locked using center reticle
 3. Second point updates dynamically as user moves
 4. Distance is calculated using 3D coordinate difference
+
+---
+
+## 🧩 Technical Implementation
+
+* Uses ARCore HitTest to detect real-world surfaces
+* Places anchor points in 3D space using camera tracking
+* Retrieves world coordinates (x, y, z) of selected points
+* Computes distance using Euclidean Distance Formula:
+
+distance = √[(x2 - x1)² + (y2 - y1)² + (z2 - z1)²]
+
+* Sceneform renders visual feedback and measurement line in AR space
 
 ---
 
