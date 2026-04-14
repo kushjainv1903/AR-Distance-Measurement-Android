@@ -4,6 +4,8 @@ An Augmented Reality (AR) based Android application that allows users to measure
 
 ---
 
+🚀 Built using ARCore + Sceneform for real-time spatial measurement
+
 ## 🚀 Features
 
  📐 Measure distance between two real-world points
@@ -27,10 +29,10 @@ The app uses **ARCore** to detect planes and track device motion.
 
 ## 📊 Tech Stack
 
- Kotlin
- Android Studio
- ARCore SDK
- Sceneform (3D rendering)
+ * Kotlin
+ * Android Studio
+ * ARCore SDK
+ * Sceneform (3D rendering)
 
 ---
 
