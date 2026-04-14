@@ -1,4 +1,4 @@
-# 📏 AR Measurement Tape (Android)
+# 📏 AR-Distance-Measurement-Android
 
 An Augmented Reality (AR) based Android application that allows users to measure real-world distances using their smartphone camera.
 
